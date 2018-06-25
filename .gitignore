@@ -1,0 +1,10 @@
+# MacOs
+.DS_Store
+
+# Server files
+/server/*.js
+/server/dist
+/server/node_modules
+
+# Client files
+/client/node_modules
